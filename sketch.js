@@ -5,8 +5,8 @@
  * Set the nodes on the grid.
  */
 
-const w = 1080;
-const h = 1080;
+const w = 720;
+const h = 720;
 const nodeNum = 0.5;
 const nodes = new Array();
 
